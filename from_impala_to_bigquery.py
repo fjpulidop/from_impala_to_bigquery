@@ -129,6 +129,6 @@ if sys.argv[1] is not None and sys.argv[2] is not None and sys.argv[3] is not No
 
     #OPTIONAL PRINT YOUR TABLES
     #print("5. BigQuery: Results")
-    #df_4 = getExperimentStats(input_year+input_month+input_day)
+    #df_4 = getTableId(input_year+input_month+input_day)
 
 print("-------------------- END --------------------")
